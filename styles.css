@@ -45,6 +45,7 @@ nav {
     padding: 1rem;
     text-align: center;
     border-bottom: 3px solid purple; /* Borda inferior */
+    border-radius: 10px;
 }
 
 nav a {
@@ -56,6 +57,7 @@ nav a {
 
 nav a:hover {
     background: purple;
+    border-radius: 5px;
 }
 
 /* Estilo para o select */
@@ -160,7 +162,7 @@ footer nav {
 }
 
 footer nav a {
-    color: #fff;
+    color: white;
     text-decoration: none;
     padding: 0.5rem;
 }
